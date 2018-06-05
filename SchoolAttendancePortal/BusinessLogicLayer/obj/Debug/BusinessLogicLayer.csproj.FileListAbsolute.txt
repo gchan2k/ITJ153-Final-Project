@@ -1,0 +1,14 @@
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\temp\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

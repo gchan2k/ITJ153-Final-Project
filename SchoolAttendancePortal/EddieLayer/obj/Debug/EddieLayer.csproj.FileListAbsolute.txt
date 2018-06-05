@@ -1,0 +1,5 @@
+C:\temp\babyG\SchoolAttendancePortal\EddieLayer\bin\Debug\EddieLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\EddieLayer\bin\Debug\EddieLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\EddieLayer\obj\Debug\EddieLayer.csprojResolveAssemblyReference.cache
+C:\temp\babyG\SchoolAttendancePortal\EddieLayer\obj\Debug\EddieLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\EddieLayer\obj\Debug\EddieLayer.pdb

@@ -1,0 +1,12 @@
+C:\temp\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\temp\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\temp\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\temp\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\temp\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\temp\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\temp\babyG\SchoolAttendancePortal\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
